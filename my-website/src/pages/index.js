@@ -25,6 +25,8 @@ function HomepageHeader() {
         </div>
 
         <h4>September 2023</h4>
+        <p><em>Disclaimer: this is a pilot project to investigate the practicality of fully online programme handbooks. This is <strong>not</strong> the current ArtDip Handbook: the actual handbook can be found on the Portal.
+          </em></p>
 
       </div>
     </header>
