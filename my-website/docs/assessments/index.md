@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Assessments
 
+_Disclaimer: this section is **not** part of the ArtDip Handbook, and is included purely for testing purpsoses. Assessment Specifications listed here are taken from the MMus/MA programme._
+
 ## Principal Study
 
 To do: student-facing text about PS assessment goes here
