@@ -269,67 +269,572 @@ In this final week of term 3 there is unlikely to be teaching or performance act
 
 Postponed 'first-sit' examinations, resit examinations, and resubmissions of failed modules typically take place during this week.
 
-|
- | Week | Date beginning | Activity |
-| --- | --- | --- | --- |
-| Term 1 | -1 | 11 September 2023 | Opera Welcome and Induction Week |
-| 0 | 18 September 2023 | Opera week 2 |
-| 1 | 25 September 2023 | Welcome and Induction Week |
-| 2 | 2 October 2023 | Teaching |
-| 3 | 9 October 2023 |
-| 4 | 16 October 2023 |
-| 5 | 23 October 2023 |
-| 6 | 30 October 2023 |
-| 7 | 6 November 2023 | Undergraduate; some departmental activities continue; Auditions Week for 2024 entry |
-| 8 | 13 November 2023 | Teaching |
-| 9 | 20 November 2023 |
-| 10 | 27 November 2023 |
-| 11 | 4 December 2023 | RCS performance week; some teaching continues |
-| 12 | 11 December 2023 | IXP Winter School |
-| Winter Break |
-| Term 2 | 1 | 8 January 2024 | Teaching |
-| 2 | 15 January 2024 |
-| 3 | 22 January 2024 |
-| 4 | 29 January 2024 |
-| 5 | 5 February 2024 | Mid-session assessments and related performance activities; no core teaching |
-| 6 | 12 February 2024 |
-| 7 | 19 February 2024 | Teaching |
-| 8 | 26 February 2024 |
-| 9 | 4 March 2024 |
-| 10 | 11 March 2024 |
-| 11 | 18 March 2024 |
-| 12 | 25 March 2024 | IXP Spring School |
-| Spring Break |
-| Term 3 | 1 | 15 April 2024 | Teaching |
-| 2 | 22 April 2024 |
-| 3 | 29 April 2024 |
-| 4 | 6 May 2024 |
-| 5 | 13 May 2024 |
-| 6 | 20 May 2024 |
-| 7 | 27 May 2024 | End-of-session performance examinations;Opera programme finishes 31 May |
-| 8 | 3 June 2024 |
-| 9 | 10 June 2024 |
-|
- | 17 June 2024 | Bridge Week |
 
-|
- | Week | Date beginning | Activity |
-| --- | --- | --- | --- |
-| Term 4 | 1 | 1 July 2024 | MA Teaching
+<table>
+    <tbody>
+        <tr>
+            <td>
+            </td>
+            <th>
+                <p>
+                    Week
+                </p>
+            </th>
+            <th>
+                <p>
+                    Date beginning
+                </p>
+            </th>
+            <th>
+                <p>
+                    Activity
+                </p>
+            </th>
+        </tr>
+        <tr>
+            <td rowspan="14">
+                <p align="center">
+                    Term 1
+                </p>
+            </td>
+            <td>
+                <p>
+                    -1
+                </p>
+            </td>
+            <td>
+                <p>
+                    11 September 2023
+                </p>
+            </td>
+            <td>
+                <p>
+                    Opera Welcome and Induction Week
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    0
+                </p>
+            </td>
+            <td >
+                <p>
+                    18 September 2023
+                </p>
+            </td>
+            <td >
+                <p>
+                    Opera week 2
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    1
+                </p>
+            </td>
+            <td >
+                <p>
+                    25 September 2023
+                </p>
+            </td>
+            <td >
+                <p>
+                    Welcome and Induction Week
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    2
+                </p>
+            </td>
+            <td >
+                <p>
+                    2 October 2023
+                </p>
+            </td>
+            <td  rowspan="5">
+                <p>
+                    Teaching
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    3
+                </p>
+            </td>
+            <td >
+                <p>
+                    9 October 2023
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    4
+                </p>
+            </td>
+            <td >
+                <p>
+                    16 October 2023
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    5
+                </p>
+            </td>
+            <td >
+                <p>
+                    23 October 2023
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    6
+                </p>
+            </td>
+            <td >
+                <p>
+                    30 October 2023
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    7
+                </p>
+            </td>
+            <td >
+                <p>
+                    6 November 2023
+                </p>
+            </td>
+            <td >
+                <p>
+                    Undergraduate; some departmental activities continue;
+                    Auditions Week for 2024 entry
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    8
+                </p>
+            </td>
+            <td >
+                <p>
+                    13 November 2023
+                </p>
+            </td>
+            <td  rowspan="3">
+                <p>
+                    Teaching
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    9
+                </p>
+            </td>
+            <td >
+                <p>
+                    20 November 2023
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    10
+                </p>
+            </td>
+            <td >
+                <p>
+                    27 November 2023
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    11
+                </p>
+            </td>
+            <td >
+                <p>
+                    4 December 2023
+                </p>
+            </td>
+            <td >
+                <p>
+                    RCS performance week; some teaching continues
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    12
+                </p>
+            </td>
+            <td >
+                <p>
+                    11 December 2023
+                </p>
+            </td>
+            <td >
+                <p>
+                    IXP Winter School
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4">
+                <p>
+                    Winter Break
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="12">
+                <p >
+                    Term 2
+                </p>
+            </td>
+            <td >
+                <p>
+                    1
+                </p>
+            </td>
+            <td >
+                <p>
+                    8 January 2024
+                </p>
+            </td>
+            <td  rowspan="4">
+                <p>
+                    Teaching
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    2
+                </p>
+            </td>
+            <td >
+                <p>
+                    15 January 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    3
+                </p>
+            </td>
+            <td >
+                <p>
+                    22 January 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    4
+                </p>
+            </td>
+            <td >
+                <p>
+                    29 January 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    5
+                </p>
+            </td>
+            <td >
+                <p>
+                    5 February 2024
+                </p>
+            </td>
+            <td  rowspan="2">
+                <p>
+                    Mid-session assessments and related performance activities;
+                    no core teaching
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    6
+                </p>
+            </td>
+            <td >
+                <p>
+                    12 February 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    7
+                </p>
+            </td>
+            <td >
+                <p>
+                    19 February 2024
+                </p>
+            </td>
+            <td  rowspan="5">
+                <p>
+                    Teaching
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    8
+                </p>
+            </td>
+            <td >
+                <p>
+                    26 February 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    9
+                </p>
+            </td>
+            <td >
+                <p>
+                    4 March 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    10
+                </p>
+            </td>
+            <td >
+                <p>
+                    11 March 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    11
+                </p>
+            </td>
+            <td >
+                <p>
+                    18 March 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    12
+                </p>
+            </td>
+            <td >
+                <p>
+                    25 March 2024
+                </p>
+            </td>
+            <td >
+                <p>
+                    IXP Spring School
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="641" colspan="4">
+                <p>
+                    Spring Break
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="9">
+                <p >
+                    Term 3
+                </p>
+            </td>
+            <td >
+                <p>
+                    1
+                </p>
+            </td>
+            <td >
+                <p>
+                    15 April 2024
+                </p>
+            </td>
+            <td  rowspan="6">
+                <p>
+                    Teaching
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    2
+                </p>
+            </td>
+            <td >
+                <p>
+                    22 April 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    3
+                </p>
+            </td>
+            <td >
+                <p>
+                    29 April 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    4
+                </p>
+            </td>
+            <td >
+                <p>
+                    6 May 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    5
+                </p>
+            </td>
+            <td >
+                <p>
+                    13 May 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    6
+                </p>
+            </td>
+            <td >
+                <p>
+                    20 May 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    7
+                </p>
+            </td>
+            <td >
+                <p>
+                    27 May 2024
+                </p>
+            </td>
+            <td  rowspan="3">
+                <p>
+                    End-of-session performance examinations;
+                </p>
+                <p>
+                    Opera programme finishes 31 May
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    8
+                </p>
+            </td>
+            <td >
+                <p>
+                    3 June 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <p>
+                    9
+                </p>
+            </td>
+            <td >
+                <p>
+                    10 June 2024
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            </td>
+            <td >
+                <p>
+                    17 June 2024
+                </p>
+            </td>
+            <td >
+                <p>
+                    Bridge Week
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
- |
-| 2 | 8 July 2024 |
-| 3 | 15 July 2024 |
-| 4 | 22 July 2024 |
-| 5 | 29 July 2024 |
-| 6 | 5 August 2024 |
-| 7 | 12 August 2024 | Resit week |
-| 8 | 19 August 2024 | MA Teaching
- |
-| 9 | 26 August 2024 |
-| 10 | 2 September 2024 |
-| 11 | 9 September 2024 | MA performance examinations |
+
+
 
 ## Independent Learning, Autonomy and Resilience
 
